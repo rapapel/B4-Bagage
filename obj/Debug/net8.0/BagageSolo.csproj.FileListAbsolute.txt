@@ -1,0 +1,14 @@
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\bin\Debug\net8.0\BagageSolo.exe
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\bin\Debug\net8.0\BagageSolo.deps.json
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\bin\Debug\net8.0\BagageSolo.runtimeconfig.json
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\bin\Debug\net8.0\BagageSolo.dll
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\bin\Debug\net8.0\BagageSolo.pdb
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.AssemblyInfoInputs.cache
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.AssemblyInfo.cs
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.dll
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\refint\BagageSolo.dll
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.pdb
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\BagageSolo.genruntimeconfig.cache
+C:\Users\rapha\OneDrive\Documenten\School\Blok B\PRA\B4 Bagage\obj\Debug\net8.0\ref\BagageSolo.dll
